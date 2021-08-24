@@ -171,10 +171,11 @@ header#header .content h1 {
   header#header .content {
     margin: 0;
     padding: 0;
+    width: 85%;
   }
 
   header#header .content h1 {
-    font-size: 3rem;
+    font-size: 2.7rem;
   }
 
   header#header .content small {
